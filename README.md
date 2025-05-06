@@ -1,2 +1,7 @@
-# ENHANCED-DISEASE-PREDICTION-USING-LOGISTIC-REGRESSION-WITH-SYMPTOM-RARITY-WEIGHTING-
-Enhanced Prediction Accuracy: The proposed model of Logistic Regression improves upon traditional machine learning models by transforming symptom data and By encoding the patient's medical history with binary digits, the model incorporates an additional layer of data.
+# multiple-disease-prediction-streamlit-app
+This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
+
+app.py is the streamlit app code.
+run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+
+You may need to install additional libraries for running the jupyter notebooks.
